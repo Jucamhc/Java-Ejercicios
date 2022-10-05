@@ -6,7 +6,7 @@ package Arbol;
 
 /**
  *
- * @author Juan
+ * @author Juan camilo hoyos
  */
 public class Main {
     public static void main(String[] args) {
