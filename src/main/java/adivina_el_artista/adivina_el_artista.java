@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @author 
  * JUAN CAMILO HOYOS CASTAÑO
  */
-public class Entrega2_GrupoB04_SubGrupo23 {
+public class adivina_el_artista {
 
     public static void main(String[] args) {
         int juego = 0;
